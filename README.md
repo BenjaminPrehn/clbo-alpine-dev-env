@@ -7,7 +7,7 @@ Repository used for Docker and requirements teachings
 Clone this repository:
 
 ````
-  git clone 
+  git clone https://github.com/python-elective-kea/clbo-alpine-dev-env.git
 
 ````
 
